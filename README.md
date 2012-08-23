@@ -1,2 +1,4 @@
 Ideas
 =====
+
+Repository for ideas
